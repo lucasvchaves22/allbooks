@@ -8,7 +8,6 @@
     "start-auth": "node src/server.js",
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:verbose": "jest --passWithNoTests --runInBand"
-
   },
   "author": "ME:)",
   "license": "ISC",
